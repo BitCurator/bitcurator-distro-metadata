@@ -1,7 +1,7 @@
 bitcurator-environment-metadata
 ===============================
 
-BitCurator Metadata Handling
+DFXML metadata transform scripts for use in the BitCurator Environment.
 
 ## Extracting Schema Metadata into a CSV
 
