@@ -1,5 +1,5 @@
-bitcurator-md
-=============
+bitcurator-environment-metadata
+===============================
 
 BitCurator Metadata Handling
 
