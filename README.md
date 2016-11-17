@@ -1,5 +1,4 @@
-bitcurator-environment-metadata
-===============================
+# bitcurator-environment-metadata
 
 DFXML metadata transform scripts for use in the BitCurator Environment. These scripts are optional; they are not required to build, run, respin, or distribute the BitCurator distro.
 
@@ -28,7 +27,7 @@ The script produces values for the following columns:
 The "Example" column is present, but the script will not place any content
 there due to the lack of examples in the source XML Schema.
 
-# License(s)
+## License(s)
 
 The BitCurator logo, BitCurator project documentation, and other non-software products of the BitCurator team are subject to the the Creative Commons Attribution 4.0 Generic license (CC By 4.0).
 
