@@ -1,6 +1,10 @@
-# bitcurator-environment-metadata
+# bitcurator-distro-metadata
 
 DFXML metadata transform scripts for use in the BitCurator Environment. These scripts are optional; they are not required to build, run, respin, or distribute the BitCurator distro.
+
+## Legacy Warning
+
+This is a legacy repository retained for informational purposes. It is not currently maintained.
 
 ## Extracting Schema Metadata into a CSV
 
