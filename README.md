@@ -1,3 +1,5 @@
+[![Logo](https://wiki.bitcurator.net/downloads/BitCurator-400px.png)
+
 # bitcurator-distro-metadata
 
 DFXML metadata transform scripts for use in the BitCurator Environment. These scripts are optional; they are not required to build, run, respin, or distribute the BitCurator distro.
