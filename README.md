@@ -2,6 +2,11 @@
 
 # bitcurator-distro-metadata
 
+[![GitHub issues](https://img.shields.io/github/issues/bitcurator/bitcurator-distro-metadata.svg)](https://github.com/bitcurator/bitcurator-distro-metadata/issues)
+[![GitHub forks](https://img.shields.io/github/forks/bitcurator/bitcurator-distro-metadata.svg)](https://github.com/bitcurator/bitcurator-distro-metadata/network)
+[![Build Status](https://travis-ci.org/BitCurator/bitcurator-distro-metadata.svg?branch=master)](https://travis-ci.org/BitCurator/bitcurator-distro-metadata)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bitcurator.svg?style=social&label=Follow)](https://twitter.com/bitcurator)
+
 DFXML metadata transform scripts for use in the BitCurator Environment. These scripts are optional; they are not required to build, run, respin, or distribute the BitCurator distro.
 
 ## Legacy Warning
